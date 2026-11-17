@@ -1,0 +1,9 @@
+# Compiled executable files
+*.exe
+*.o
+
+# Temporary test file
+test.cpp
+
+# Generated output file
+students_updated.txt
