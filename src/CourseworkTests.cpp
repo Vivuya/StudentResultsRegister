@@ -1,9 +1,8 @@
 #include <stdexcept>
 #include <iostream>
 #include "../include/DynamicArray.h"
-#include "../include/Sorting.h"
-#include "../include/Searching.h"
-
+#include "../include/sorting.h"
+#include "../include/searching.h"
 struct Ascending {
     bool operator()(int a, int b) const {
         return a < b;

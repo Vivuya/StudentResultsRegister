@@ -6,9 +6,8 @@
 #include <exception>
 
 #include "../include/DynamicArray.h"
-#include "../include/Sorting.h"
-#include "../include/Searching.h"
-
+#include "../include/sorting.h"
+#include "../include/searching.h"
 // Student information structure
 struct StudentRecord {
     int id;
